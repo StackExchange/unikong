@@ -8,3 +8,7 @@ A couple things changed since the game ran on Stack Overflow proper:
 - Joystix Monospace font has been replaced everywhere it's not baked into a static image due to the font's licensing constraints.
 
 This version of the game is playable [here](http://stackexchange.github.io/unikong).
+
+---
+
+Some sounds provided by Morten Barfod Søegaard, [Little Robot Sound Factory](http://www.littlerobotsoundfactory.com), under CC BY 4.0.
